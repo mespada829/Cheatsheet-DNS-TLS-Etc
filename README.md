@@ -7,6 +7,9 @@ In a nutshell DNS will convert a hostname / domain like www.google.com into a co
 
 ## Four DNS Servers are involved in the process of loading a website:
 
+**DNS Recursor:**
+Is the first stop in a DNS query 🛑
+
 
 ###### DNS Resource Records:
 
