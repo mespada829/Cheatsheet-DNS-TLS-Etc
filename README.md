@@ -1,6 +1,7 @@
 # Cheatsheet 💻 - DNS, HTTP, TLS - HTTPS 
 
-###### DNS: The Domain Name System (DNS) to make it simple, is the phonebook of the Internet Protocol. 
+###### DNS: Is a protocol and it's shrot for Domain Name System (DNS) to make it simple, is the phonebook of the Internet Protocol. 
+
 In further detail DNS will translate domain names to IP addresses so any browser can load the website you would like to visit.
 
 In a nutshell 🥜 DNS will convert a hostname / domain like www.google.com into a computer-friendly IP Addresss.
