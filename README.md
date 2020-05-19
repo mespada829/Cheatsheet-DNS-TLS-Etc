@@ -17,10 +17,13 @@ The Root Server is in charge of resolving that human-readable hostname into a co
 This server manages the root zone, this server it's at the top of the hierchachy. During the event of an uncached DNS query, whenever a user enters a web address into their browser, this action triggers a DNS lookup, and all DNS lookups start at the root zone. 
 
 
-**TLD - Top Level Domain:** This server is more specific in the tasks that it has to manage. A TLD nameserver maintains / manages all information for the domain names that share a common domain extension, for example as .com, .net, .gov  or whatever comes after the last dot in a url. 
+**TLD - Top Level Domain:** 
+This server is more specific in the tasks that it has to manage. A TLD nameserver maintains / manages all information for the domain names that share a common domain extension, for example as .com, .net, .gov  or whatever comes after the last dot in a url. 
 
 
 **Authoritave Nameserver:**
+This is the resolver's last step. 
+The authoritative nameserver contains information specific to the domain name it serves and it can provide a recursive resolver with the IP address of that server found in the DNS A record, or if the domain has a CNAME record (alias). it will provide the recursive resolver with an alias domain, at which point the recursive resolver will have to perform a whole new DNS lookup to procure a record from an authoritative nameserver (often an A record containing an IP address).
 
 ----------------------------------------------------------------------------------------------------------------------------
 
