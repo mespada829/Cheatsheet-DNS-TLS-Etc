@@ -11,7 +11,7 @@ In a nutshell DNS will convert a hostname / domain like www.google.com into a co
 Is the first stop in a DNS query 🛑
 
 
-###### DNS Resource Records:
+## DNS Resource Records:
 
 **Name:** Is an alphanumeric identifier of the DNS record
 
