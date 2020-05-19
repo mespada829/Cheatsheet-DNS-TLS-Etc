@@ -5,7 +5,8 @@ In further detail DNS will translate domain names to IP addresses so any browser
 
 In a nutshell 🥜 DNS will convert a hostname / domain like www.google.com into a computer-friendly IP Addresss.
 
-## Four DNS Servers that are involved in the process: 
+## Four DNS Servers are involved in the process: 
+Here is a quick recap of this process
 
 **DNS Recursor:**
 Is the first stop in a DNS query 🛑
