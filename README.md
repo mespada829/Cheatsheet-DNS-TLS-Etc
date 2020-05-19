@@ -1,6 +1,6 @@
 # Cheatsheet 💻 - DNS & TLS 
 
-###### DNS: The Domain Name System (DNS) to make it simple, is the phonebook of the Internet. 
+###### DNS: The Domain Name System (DNS) to make it simple, is the phonebook of the Internet Protocol. 
 In further detail DNS will translate domain names to IP addresses so any browser can load the website you would like to visit.
 
 In a nutshell 🥜 DNS will convert a hostname / domain like www.google.com into a computer-friendly IP Addresss.
@@ -9,6 +9,9 @@ In a nutshell 🥜 DNS will convert a hostname / domain like www.google.com into
 
 **DNS Recursor:**
 Is the first stop in a DNS query 🛑
+The recursive resolver acts as a middleman between a client and a DNS nameserver. After receiving a DNS query from a web client (the browser you are using), a recursive resolver will either respond with cached data, or send a request to a root nameserver, followed by another request to a TLD nameserver, and then one last request to an authoritative nameserver.
+
+**Root Server:** 
 
 
 ## DNS Resource Records:
