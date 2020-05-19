@@ -19,6 +19,8 @@ Record type is the DNS record type—for example an A, CNAME, MX
 
 Record data contains the DNS values, for example the IP address for a hostname
 
+----------------------------------------------------------------------------------------------------------------------------
+
 **The most common DNS record types supported by the DNS protocol:**
 
 Name Server records (NS)—specifies the authoritative name server for a DNS zone
