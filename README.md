@@ -11,11 +11,14 @@ In a nutshell 🥜 DNS will convert a hostname / domain like www.google.com into
 Is the first stop in a DNS query 🛑
 The recursive resolver acts as a middleman between a client (you) and a DNS nameserver. After receiving a DNS query from a web client (the browser you are using), a recursive resolver will either respond with cached data, or send a request to a root nameserver, followed by another request to a TLD nameserver, and then one last request to an authoritative nameserver.Once all the request are completed you will be able to see the webite your are looking to visit.
 
+
 **Root Server:** 
 The Root Server is in charge of resolving that human-readable hostname into a computer-friendly IP address. 
+This server manages the root zone, this server it's at the top of the hierchachy. During the event of an uncached DNS query, whenever a user enters a web address into their browser, this action triggers a DNS lookup, and all DNS lookups start at the root zone. 
 
 
-**TLD - Top Level Domain:**
+**TLD - Top Level Domain:** This server is more specific in the tasks that it has to manage. A TLD nameserver maintains / manages all information for the domain names that share a common domain extension, for example as .com, .net, .gov  or whatever comes after the last dot in a url. 
+
 
 **Authoritave Nameserver:**
 
