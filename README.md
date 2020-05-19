@@ -1,4 +1,4 @@
-# Cheatsheet 
+# Cheatsheet 🔒
 
 **DNS** - The Domain Name System (DNS) to make it simple, is the phonebook of the Internet. 
 In further detail DNS will translate domain names to IP addresses so any browser can load the website you would like to visit.
