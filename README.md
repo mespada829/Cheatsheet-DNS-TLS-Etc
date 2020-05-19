@@ -50,4 +50,4 @@ The Root Server is in charge of resolving that human-readable hostname into a co
 
 ## How to troubleshoot DNS 
 
-![Image description](link-to-image)
+![nslookup](https://github.com/mespada829/cheatsheet/blob/Images/nslookup.png)
