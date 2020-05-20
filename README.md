@@ -57,7 +57,7 @@ The authoritative nameserver contains information specific to the domain name it
 ----------------------------------------------------------------------------------------------------------------------------
 
 ## How to troubleshoot DNS 
-###### My go to commands when troubleshooting DNS are listed below with quick explanation below:
+###### My go to commands / tools  when troubleshooting DNS are listed below with quick explanation below:
 
 **nslookup -** 
 
@@ -67,3 +67,7 @@ The authoritative nameserver contains information specific to the domain name it
 **Dig -** Dig displays a QUESTION SECTION (the request) and an ANSWER SECTION (what the DNS server sends in response to the request).
 
 
+**Ping -**
+
+
+**Free DNS Site Tool -** For example, to test if DNS propagation is complete, you can visit http://www.whatsmydns.net and specify a domain name. The site displays a global map showing the IP address associated with the domain name for a variety of DNS servers around the world.
