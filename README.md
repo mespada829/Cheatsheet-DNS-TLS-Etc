@@ -1,5 +1,17 @@
 # Cheatsheet 💻 - DNS, HTTP, TLS - HTTPS 
 
+###### Troubleshooting HTTP Requests
+
+When accessing a web server or application, every HTTP request that is received by a server is responded to with an HTTP status code. HTTP status codes are three-digit codes all groupd in five type of classes:
+
+```
+1xx: Informational
+2xx: Success
+3xx: Redirection
+4xx: Client Error
+5xx: Server Error
+```
+
 ###### DNS: Is a protocol and it's shrot for Domain Name System (DNS) to make it simple, is the phonebook of the Internet Protocol. 
 
 In further detail DNS will translate domain names to IP addresses so any browser can load the website you would like to visit.
