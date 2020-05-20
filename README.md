@@ -62,7 +62,7 @@ The authoritative nameserver contains information specific to the domain name it
 **nslookup -** 
 
 ![nslookup](https://github.com/mespada829/cheatsheet/blob/Images/nslookup.png)
-
+From this, we can see the IP address and the DNS server that serve it. 
 
 **Dig -** Dig displays a QUESTION SECTION (the request) and an ANSWER SECTION (what the DNS server sends in response to the request).
 
