@@ -76,6 +76,6 @@ Dig displays a QUESTION SECTION (the request) and an ANSWER SECTION (what the DN
 
 ![ping](https://github.com/mespada829/Cheatsheet-DNS-TLS-Etc/blob/master/ping.png)
 
-
+If the remote host is active and configured to respond to ping requests, responses appear. 
 
 **Free DNS Site Tool -** For example, to test if DNS propagation is complete, you can visit http://www.whatsmydns.net and specify a domain name. The site displays a global map showing the IP address associated with the domain name for a variety of DNS servers around the world.
