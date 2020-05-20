@@ -12,6 +12,13 @@ When accessing a web server or application, every HTTP request that is received 
 5xx: Server Error
 ```
 
+###### Some Quick Commands to troubleshoot HTTP Requests:
+
+```
+
+
+```
+
 ###### DNS: Is a protocol and it's shrot for Domain Name System (DNS) to make it simple, is the phonebook of the Internet Protocol. 
 
 In further detail DNS will translate domain names to IP addresses so any browser can load the website you would like to visit.
