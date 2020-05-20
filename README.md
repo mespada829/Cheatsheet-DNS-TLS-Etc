@@ -67,14 +67,14 @@ From this, we can see the IP address and the DNS server that serve it.
 
 **Dig -** 
 
-![dig](https://github.com/mespada829/cheatsheet/blob/Images/nslookup.png)
+![dig](https://github.com/mespada829/Cheatsheet-DNS-TLS-Etc/blob/master/dig.png)
 
 Dig displays a QUESTION SECTION (the request) and an ANSWER SECTION (what the DNS server sends in response to the request).
 
 
 **Ping -**
 
-![ping](https://github.com/mespada829/cheatsheet/blob/Images/nslookup.png)
+![ping](https://github.com/mespada829/Cheatsheet-DNS-TLS-Etc/blob/master/ping.png)
 
 
 
