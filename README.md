@@ -57,5 +57,13 @@ The authoritative nameserver contains information specific to the domain name it
 ----------------------------------------------------------------------------------------------------------------------------
 
 ## How to troubleshoot DNS 
+###### My go to commands when troubleshooting DNS are listed below with quick explanation below:
+
+**nslookup -** 
 
 ![nslookup](https://github.com/mespada829/cheatsheet/blob/Images/nslookup.png)
+
+
+**Dig -** Dig displays a QUESTION SECTION (the request) and an ANSWER SECTION (what the DNS server sends in response to the request).
+
+
