@@ -67,13 +67,15 @@ From this, we can see the IP address and the DNS server that serve it.
 
 **Dig -** 
 
-
-
+![dig](https://github.com/mespada829/cheatsheet/blob/Images/nslookup.png)
 
 Dig displays a QUESTION SECTION (the request) and an ANSWER SECTION (what the DNS server sends in response to the request).
 
 
 **Ping -**
+
+![ping](https://github.com/mespada829/cheatsheet/blob/Images/nslookup.png)
+
 
 
 **Free DNS Site Tool -** For example, to test if DNS propagation is complete, you can visit http://www.whatsmydns.net and specify a domain name. The site displays a global map showing the IP address associated with the domain name for a variety of DNS servers around the world.
