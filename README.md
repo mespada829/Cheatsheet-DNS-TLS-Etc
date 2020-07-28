@@ -11,14 +11,6 @@ When accessing a web server or application, every HTTP request that is received 
 4xx: Client Error
 5xx: Server Error
 ```
-
-###### Some Quick Commands to troubleshoot HTTP Requests:
-
-```
-
-
-```
-
 ----------------------------------------------------------------------------------------------------------------------------
 
 ## DNS
