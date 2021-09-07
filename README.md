@@ -1,4 +1,4 @@
-# Cheatsheet 💻 - DNS, HTTP, TLS - HTTPS 
+# Cheatsheet 💻 - HTTP & DNS 
 
 ###### Troubleshooting HTTP Requests
 
